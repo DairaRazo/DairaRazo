@@ -11,7 +11,7 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
   -->
 
 ## Top Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DairaRazo&show icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DairaRazo&showicons=true&theme=tokyonight)
 
 ##Tech Stack
 <p align="center">
