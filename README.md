@@ -10,12 +10,16 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
   - 📬 You can contact me via email: *daira.a55razo@gmail.com*
   -->
 
-## Top Languages
+## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DairaRazo&showicons=true&theme=tokyonight)
+
+## Languages Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DairaRazo&layout=compact&theme=tokyonight)
+
 
 ##Tech Stack
 <p>
-  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\python.png">
+  <img src="logos_languages/css.jpg>
   <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\css.jpg">
   <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\html.png">
   <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\javascript.png">
