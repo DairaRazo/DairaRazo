@@ -14,7 +14,7 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DairaRazo&showicons=true&theme=tokyonight)
 
 ##Tech Stack
-<p align="center">
+<p>
   <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\python.png">
   <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\css.jpg">
   <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\html.png">
