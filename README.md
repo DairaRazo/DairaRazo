@@ -26,5 +26,5 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ![GitHub Streak](https://streak-stats.demolab.com?user=DairaRazo&theme=tokyonight)
 
 ## 👀​visitor count
-![Visitor Count](https://visitor-badge.glitch.me/badge?pageid=DairaRazo.DairaRazo)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page id=DairaRazo.DairaRazo)
 
