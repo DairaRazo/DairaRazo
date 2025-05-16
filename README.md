@@ -13,5 +13,15 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ## Top Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DairaRazo&show icons=true&theme=tokyonight)
 
-## GitHub Streak
+##Tech Stack
+![Python](https://img.shields.io/badge/-Python-0512A?style=flatlogo=python)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https:img.shields.io/badge.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)
+
+## Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=DairaRazo&theme=tokyonight)
+
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=DairaRazo&theme=onedark)
