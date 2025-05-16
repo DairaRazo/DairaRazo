@@ -9,3 +9,6 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
   - 🎯 I am building projects to gain hands-on experience while I build my portfolio.
   - 📬 You can contact me via email: *daira.a55razo@gmail.com*
   -->
+
+## Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DairaRazo&show icons=true&theme=tokyonight)
