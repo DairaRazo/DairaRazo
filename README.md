@@ -26,4 +26,7 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ![GitHub Streak](https://streak-stats.demolab.com?user=DairaRazo&theme=tokyonight)
 
 ## 👀​visitor count
-[[Hits(https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https://github.com/yourusername&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=fals)](https://github.com/DairaRazo)
+![Visitor Count](https://profile-counter.glitch.me/{DairRazo}/count.svg)
+
+## Hit count
+![GitHub Hits](https://hits.dwyl.com/DairaRazo/DairaRazo)
