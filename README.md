@@ -14,11 +14,13 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DairaRazo&show icons=true&theme=tokyonight)
 
 ##Tech Stack
-![Python](https://img.shields.io/badge/-Python-0512A?style=flatlogo=python)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![JavaScript](https:img.shields.io/badge.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\python.png">
+  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\css.jpg">
+  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\html.png">
+  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\javascript.png">
+  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\sql.png">
+</p>
 
 ## Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=DairaRazo&theme=tokyonight)
