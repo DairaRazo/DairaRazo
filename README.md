@@ -17,13 +17,13 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DairaRazo&layout=compact&theme=tokyonight)
 
 
-##Tech Stack
+## Tech Stack
 <p>
-  <img src="logos_languages/css.jpg>
-  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\css.jpg">
-  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\html.png">
-  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\javascript.png">
-  <img src="C:\Users\daira\OneDrive\Escritorio\github_langpics\sql.png">
+  <img src="logos_languages/css.jpg">
+  <img src="logos_languages/html.png">
+  <img src="logos_languages/javascript.png">
+  <img src="logos_languages/python.png">
+  <img src="logos_languages/sql.png">
 </p>
 
 ## Streak
