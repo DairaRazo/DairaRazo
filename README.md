@@ -25,12 +25,6 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ## Streak 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DairaRazo&theme=tokyonight)
 
-## Activity Graph
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DairaRazo&theme=tokyonight)
-
-## Summary
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DairaRazo&theme=tokyonight)
-
 # Trophies 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DairaRazo&theme=onedark)
 
