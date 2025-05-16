@@ -13,7 +13,7 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ## Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DairaRazo&layout=compact&theme=tokyonight)
 
-## Tech Stack
+## 💻Tech Stack
 <p align="center">
   <img src="logos_languages/css.jpg" alt="CSS">
   <img src="logos_languages/html.png" alt="HTML">
@@ -22,9 +22,9 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
   <img src="logos_languages/sql.png" alt="SQL">
 </p>
   
-## Streak 
+## ​Streak 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DairaRazo&theme=tokyonight)
 
-# Trophies 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DairaRazo&theme=onedark)
+## 👀​visitor count
+![Visitor Count](https://visitor-badge.glitch.me/badge?pageid=DairaRazo.DairaRazo)
 
