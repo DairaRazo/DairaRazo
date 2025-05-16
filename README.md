@@ -27,4 +27,4 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 
 ## 👀​visitor count
 ![Visitor Count](https://visitor-badge.glitch.me/badge?pageid=DairaRazo.DairaRazo)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername&countbg=%23555555&icon=github.svg&iconcolor=%23E7E7E7&title=visits&edgeflat=false)](https://github.com/DairaRazo))
