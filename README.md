@@ -13,8 +13,8 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ## Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DairaRazo&layout=compact&theme=tokyonight)
 
+## Tech Stack
 <p align="center">
-  Programming languages
   <img src="logos_languages/css.jpg" alt="CSS">
   <img src="logos_languages/html.png" alt="HTML">
   <img src="logos_languages/javascript.png" alt="JavaScript">
