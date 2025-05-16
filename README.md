@@ -18,12 +18,12 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 
 
 ## Tech Stack
-<p>
-  <img src="logos_languages/css.jpg">
-  <img src="logos_languages/html.png">
-  <img src="logos_languages/javascript.png">
-  <img src="logos_languages/python.png">
-  <img src="logos_languages/sql.png">
+<p align="center">
+  <img src="logos_languages/css.jpg" alt="CSS">
+  <img src="logos_languages/html.png" alt="HTML">
+  <img src="logos_languages/javascript.png" alt="JavaScript">
+  <img src="logos_languages/python.png" alt="Python">
+  <img src="logos_languages/sql.png" alt="SQL">
 </p>
 
 ## Streak
