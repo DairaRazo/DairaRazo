@@ -28,5 +28,3 @@ Hi! I am Daira, I am working on an educative website while I am learning more ab
 ## 👀​visitor count
 ![Visitor Count](https://profile-counter.glitch.me/{DairRazo}/count.svg)
 
-## Hit count
-![GitHub Hits](https://hits.dwyl.com/DairaRazo/DairaRazo)
