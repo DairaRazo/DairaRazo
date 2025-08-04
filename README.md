@@ -1,7 +1,7 @@
 
 ## Hi there 👋 
 
-Hi! I am Daira, I am working on an educative website while I am learning more about web development, databases and python libraries.
+Hi! I am Daira. 
   
   - 🤔 I’m looking for help and feedback with my future projects. 
   - 🎯 I am building projects to gain hands-on experience. 
