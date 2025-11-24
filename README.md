@@ -1,9 +1,7 @@
 
 ## Hi there 👋 
 
-Hi! I am Daira. 
-  
-  - 🤔 I’m looking for help and feedback with my future projects. 
+Hi! I am Daira
   - 🎯 I am building projects to gain hands-on experience. 
   - 📬 You can contact me via email: <b> daira.a55razo@gmail.com 
   
